@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working on improving and polishing my skills<br>I'm looking to collaborate on cloud and devops innovation<br>I'm currently learning aws , kubernetes , openshift , terraform for industry driven purposes <br>Ask me anything about cloud , either i'll answer or i'll learn <br>
+Aspiring DevOps & Cloud Engineer passionate about building scalable, automated, and secure cloud infrastructure. I specialize in CI/CD pipelines, containerization, and infrastructure as code, with hands-on experience in Docker, Github environment, and AWS.
+
+I've worked on projects involving containerized web applications, GitHub Actions pipelines, and Linux-based server administration, focusing on zero-downtime deployments and cost-efficient cloud operations. My goal is to bridge the gap between development and operations through automation, monitoring, and continuous improvement.
+
+Currently expanding my skills in Kubernetes, AWS & Azure architecture, and cloud cost optimization to deliver production-ready, reliable infrastructure.
+
+I enjoy solving problems, automating repetitive tasks, and collaborating with teams to build efficient cloud-native systems <br>
 
 
 ## 🌐 Socials:
